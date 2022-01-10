@@ -1,0 +1,26 @@
+d:\documents\visual studio 2012\Projects\Proyecto- Snake\Proyecto- Snake\bin\Debug\Proyecto- Snake.exe.config
+d:\documents\visual studio 2012\Projects\Proyecto- Snake\Proyecto- Snake\bin\Debug\Proyecto- Snake.exe
+d:\documents\visual studio 2012\Projects\Proyecto- Snake\Proyecto- Snake\bin\Debug\Proyecto- Snake.pdb
+d:\documents\visual studio 2012\Projects\Proyecto- Snake\Proyecto- Snake\obj\Debug\Proyecto- Snake.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\Proyecto- Snake\Proyecto- Snake\obj\Debug\Proyecto__Snake.Form1.resources
+d:\documents\visual studio 2012\Projects\Proyecto- Snake\Proyecto- Snake\obj\Debug\Proyecto__Snake.Properties.Resources.resources
+d:\documents\visual studio 2012\Projects\Proyecto- Snake\Proyecto- Snake\obj\Debug\Proyecto- Snake.csproj.GenerateResource.Cache
+d:\documents\visual studio 2012\Projects\Proyecto- Snake\Proyecto- Snake\obj\Debug\Proyecto- Snake.exe
+d:\documents\visual studio 2012\Projects\Proyecto- Snake\Proyecto- Snake\obj\Debug\Proyecto- Snake.pdb
+D:\Documents\Visual Studio 2012\Projects\Proyecto- Snake\Proyecto- Snake\obj\Debug\Interop.MediaPlayer.dll
+D:\Documents\Visual Studio 2012\Projects\Proyecto- Snake\Proyecto- Snake\obj\Debug\Interop.WMPLib.dll
+D:\Documents\Visual Studio 2012\Projects\Proyecto- Snake\Proyecto- Snake\obj\Debug\Proyecto- Snake.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2012\Projects\Proyecto- Snake\Proyecto- Snake\obj\Debug\Proyecto__Snake.Reglas.resources
+E:\Proyecto- Snake\Proyecto- Snake\bin\Debug\Proyecto- Snake.exe.config
+E:\Proyecto- Snake\Proyecto- Snake\obj\Debug\Interop.MediaPlayer.dll
+E:\Proyecto- Snake\Proyecto- Snake\obj\Debug\Interop.WMPLib.dll
+E:\Proyecto- Snake\Proyecto- Snake\obj\Debug\Proyecto- Snake.csproj.ResolveComReference.cache
+E:\Proyecto- Snake\Proyecto- Snake\obj\Debug\Proyecto- Snake.exe
+E:\Proyecto- Snake\Proyecto- Snake\obj\Debug\Proyecto- Snake.pdb
+E:\Proyecto- Snake\Proyecto- Snake\bin\Debug\Proyecto- Snake.exe
+E:\Proyecto- Snake\Proyecto- Snake\bin\Debug\Proyecto- Snake.pdb
+E:\Proyecto- Snake\Proyecto- Snake\obj\Debug\Proyecto- Snake.csprojResolveAssemblyReference.cache
+E:\Proyecto- Snake\Proyecto- Snake\obj\Debug\Proyecto__Snake.Form1.resources
+E:\Proyecto- Snake\Proyecto- Snake\obj\Debug\Proyecto__Snake.Properties.Resources.resources
+E:\Proyecto- Snake\Proyecto- Snake\obj\Debug\Proyecto__Snake.Reglas.resources
+E:\Proyecto- Snake\Proyecto- Snake\obj\Debug\Proyecto- Snake.csproj.GenerateResource.Cache
